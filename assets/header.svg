@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Hamlin — Build, explore, share</title>
+  <desc id="desc">A deep navy banner with mint geometric paths, a copper leaf and the words AI Agent, RAG and Automation.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#122D43"/>
+      <stop offset="1" stop-color="#0B1C2B"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="1020" y1="55" x2="1074" y2="111" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EDC18B"/>
+      <stop offset="1" stop-color="#B87C45"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#background)"/>
+  <path d="M48 42H1232" stroke="#B9F0D8" stroke-opacity=".13"/>
+  <path d="M48 278H1232" stroke="#B9F0D8" stroke-opacity=".13"/>
+  <circle cx="56" cy="69" r="5" fill="#ACE8D1"/>
+  <text x="73" y="75" fill="#ACE8D1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">BUILD / EXPLORE / SHARE</text>
+  <text x="48" y="181" fill="#FFF9ED" font-family="Arial, Helvetica, sans-serif" font-size="106" font-weight="700" letter-spacing="-4">Hamlin</text>
+  <text x="54" y="222" fill="#C8D5DF" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing=".4">Small ideas. Useful tools.</text>
+  <text x="54" y="260" fill="#ACE8D1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">AI AGENT · RAG · AUTOMATION</text>
+  <circle cx="1051" cy="164" r="104" stroke="#ACE8D1" stroke-opacity=".17"/>
+  <circle cx="1051" cy="164" r="73" stroke="#ACE8D1" stroke-opacity=".1"/>
+  <path d="M867 236H944L990 190H1051L1115 126H1196" stroke="#ACE8D1" stroke-opacity=".52" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M910 91H969L1005 127H1051L1101 177H1209" stroke="#ACE8D1" stroke-opacity=".27" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="998" y="111" width="106" height="106" rx="28" fill="#173B50" stroke="#ACE8D1" stroke-width="2"/>
+  <path d="M1034 145L1016 164L1034 183M1068 145L1086 164L1068 183" stroke="#B9F0D8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1057 144L1045 184" stroke="#E7B47B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1052 111C1017 104 1009 80 1015 60C1049 58 1072 78 1052 111Z" fill="url(#leaf)"/>
+  <path d="M1020 66L1052 110" stroke="#795132" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="867" cy="236" r="5" fill="#ACE8D1"/>
+  <circle cx="910" cy="91" r="5" fill="#122D43" stroke="#ACE8D1" stroke-width="2"/>
+  <circle cx="1196" cy="126" r="5" fill="#E7B47B"/>
+  <circle cx="1209" cy="177" r="4" fill="#ACE8D1" fill-opacity=".65"/>
+</svg>
